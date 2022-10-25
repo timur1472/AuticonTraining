@@ -43,7 +43,8 @@ Diese sachen gelten für dinge wie github oder gitlab, sind aber kein teil von g
 ist eine Anfrage an die jeweils berechtigten leute einen "pull" zu machen, also änderungen reinziehen.
 ein pullrequest geht von einem Branch in einen anderen, nicht nur innerhalb eines repositories, sondern auch zwischen verschiedenen Forks.
 
-
+**Neuer text**
+Das ist ein neuer Text, Gruß Timur.
 
 # next steps
 
